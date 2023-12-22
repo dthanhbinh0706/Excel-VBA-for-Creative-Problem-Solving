@@ -11,4 +11,5 @@ Through this course, I have achieved the following objectives:
 5. **Automating Excel's Goal Seek and Solver Tools**: I have learned to automate Excel's Goal Seek and Solver tools, enabling me to create "direct solutions" for goal-seeking and optimization problems.
 
 This course has been instrumental in expanding my knowledge and skills in using Excel and VBA for creative problem-solving.
+
 **Certificate**: https://coursera.org/share/7603cb2d89fa960c4043b0aaf8470581
